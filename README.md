@@ -1,2 +1,2 @@
 # CXXFFMpeg
-An C++ wrapper of FFMpeg.
+An C++ wrapper of FFMpeg. WIP...
